@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI 工程模拟面试"
+  short_description: "从部门业务选题，沿运行链路追问，兼顾跨项目覆盖与证据评分"
+  default_prompt: "使用 $ai-engineering-mock，结合我的简历和 JD；没有 JD 时模拟一个业务部门，进行一场兼顾广度与层级的 AI 开发面试，并在结束后评价。"
